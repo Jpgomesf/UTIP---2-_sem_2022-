@@ -1,23 +1,23 @@
-# TÍTULO DO PROJETO
+# UTI Processual
 
-`CURSO`
+`Sistemas para Internet`
 
-`DISCIPLINA`
+`Projeto desenvolvimento web Back-end`
 
-`SEMESTRE`
+`2° SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto UTI Processual visa causar celeridade aos processos jurídicos através de uma metodologia de urgência. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Danilo
+* Jessé
+* João Pedro
+* Marssele
 
 ## Orientador
 
-* Nome completo do professor 1
+* Will
 
 ## Instruções de utilização
 
